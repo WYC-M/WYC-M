@@ -1,3 +1,5 @@
+# 👋 Hi! I'm WYC-M, nice to meet you!
+
 ## ✨ About me
 
 * Student / Developer   
