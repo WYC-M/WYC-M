@@ -7,5 +7,5 @@
 
 ## 📫 Social
 
-Email: miqiwyc@163.com  
-Blog: https://wyc-m.github.io
+- Email: miqiwyc@163.com  
+- Blog: https://wyc-m.github.io
