@@ -3,7 +3,7 @@
 ## ✨ About me
 
 * Student / Developer   
-* C++ / Python
+* C++ / C# / Python
 
 ## 📫 Social
 
