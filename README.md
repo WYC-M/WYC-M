@@ -2,8 +2,8 @@
 
 ## ✨ About me
 
-* Student / Developer   
-* C++ / Python
+- Student
+- C++ / Python
 
 ## 📫 Social
 
